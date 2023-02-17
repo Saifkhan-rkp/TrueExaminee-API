@@ -11,8 +11,8 @@ module.exports = (email, token) =>{
         port: 587,
         secure: false,
         auth: {
-            user: 'ssspl.official@protonmail.com',
-            pass: '47$4!Fna|-|K42'
+            user: process.env.NODEMAILER_EMAIL,
+            pass: process.env.NODEMAILER_EMAIL_PASSWORD
         }
     });
     let mailOptions = {
