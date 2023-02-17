@@ -1,0 +1,545 @@
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [31/Oct/2021:10:50:10 +0000] \"GET / HTTP/1.1\" 404 23 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [31/Oct/2021:10:50:10 +0000] \"GET /favicon.ico HTTP/1.1\" 404 23 \"http://localhost:8000/\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36\"\n"}
+{"level":"error","message":"Cannot read property 'validate' of undefined"}
+{"level":"info","message":"::1 - - [31/Oct/2021:10:54:37 +0000] \"POST /auth/signup HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Cannot read property 'validate' of undefined"}
+{"level":"info","message":"::1 - - [31/Oct/2021:10:57:05 +0000] \"POST /auth/signup HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"result is not defined"}
+{"level":"info","message":"::1 - - [31/Oct/2021:11:01:42 +0000] \"POST /auth/signup HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"result is not defined"}
+{"level":"info","message":"::1 - - [31/Oct/2021:11:07:23 +0000] \"POST /auth/signup HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"result is not defined"}
+{"level":"info","message":"::1 - - [31/Oct/2021:11:07:45 +0000] \"POST /auth/signup HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"result is not defined"}
+{"level":"info","message":"::1 - - [31/Oct/2021:11:09:07 +0000] \"POST /auth/signup HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"result is not defined"}
+{"level":"info","message":"::1 - - [31/Oct/2021:11:13:15 +0000] \"POST /auth/signup HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [31/Oct/2021:11:14:33 +0000] \"POST /auth/signup HTTP/1.1\" 500 1454 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [31/Oct/2021:11:16:27 +0000] \"POST /auth/signup HTTP/1.1\" 500 1454 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [31/Oct/2021:11:17:10 +0000] \"POST /auth/signup HTTP/1.1\" 201 41 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [31/Oct/2021:11:27:22 +0000] \"POST /auth/signup HTTP/1.1\" 409 351 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [31/Oct/2021:11:40:40 +0000] \"POST /auth/signup HTTP/1.1\" 201 41 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"This username is already Exists"}
+{"level":"info","message":"::1 - - [31/Oct/2021:11:49:16 +0000] \"POST /auth/signup HTTP/1.1\" 409 45 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"This email is already registered"}
+{"level":"info","message":"::1 - - [31/Oct/2021:11:49:26 +0000] \"POST /auth/signup HTTP/1.1\" 409 46 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [31/Oct/2021:12:02:10 +0000] \"POST /auth/signup HTTP/1.1\" 201 41 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [31/Oct/2021:12:18:50 +0000] \"POST /auth/signup HTTP/1.1\" 201 41 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [31/Oct/2021:12:27:14 +0000] \"POST /auth/signup HTTP/1.1\" 201 41 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [31/Oct/2021:12:27:47 +0000] \"GET /auth/verify/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZpcnN0QWNjMSIsImlhdCI6MTYzNTY4MzIzNCwiZXhwIjoxNjM1Njg2ODM0fQ.2BnDQM5rM6Hwhq7QLLEyVxWrt94K4IXjkBEMvAoLqvo HTTP/1.1\" 404 23 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [31/Oct/2021:12:28:00 +0000] \"GET /auth/verify/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZpcnN0QWNjMSIsImlhdCI6MTYzNTY4MzIzNCwiZXhwIjoxNjM1Njg2ODM0fQ.2BnDQM5rM6Hwhq7QLLEyVxWrt94K4IXjkBEMvAoLqvo HTTP/1.1\" 404 23 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [31/Oct/2021:12:28:08 +0000] \"GET /auth/verifyeyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZpcnN0QWNjMSIsImlhdCI6MTYzNTY4MzIzNCwiZXhwIjoxNjM1Njg2ODM0fQ.2BnDQM5rM6Hwhq7QLLEyVxWrt94K4IXjkBEMvAoLqvo HTTP/1.1\" 404 23 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [31/Oct/2021:12:28:19 +0000] \"GET /auth/verify/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZpcnN0QWNjMSIsImlhdCI6MTYzNTY4MzIzNCwiZXhwIjoxNjM1Njg2ODM0fQ.2BnDQM5rM6Hwhq7QLLEyVxWrt94K4IXjkBEMvAoLqvo HTTP/1.1\" 404 23 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36\"\n"}
+{"level":"error","message":"Unexpected token } in JSON at position 65"}
+{"level":"info","message":"::1 - - [31/Oct/2021:12:29:10 +0000] \"POST /auth/login HTTP/1.1\" 400 55 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [31/Oct/2021:12:29:26 +0000] \"POST /auth/login HTTP/1.1\" 200 215 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [31/Oct/2021:12:34:59 +0000] \"GET /auth/verify/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZpcnN0QWNjMSIsImlhdCI6MTYzNTY4MzIzNCwiZXhwIjoxNjM1Njg2ODM0fQ.2BnDQM5rM6Hwhq7QLLEyVxWrt94K4IXjkBEMvAoLqvo HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [31/Oct/2021:12:35:33 +0000] \"POST /auth/verify HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [31/Oct/2021:12:36:12 +0000] \"POST /auth/verify HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [31/Oct/2021:12:38:01 +0000] \"POST /auth/verify HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [31/Oct/2021:12:38:31 +0000] \"GET /auth/verify/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZpcnN0QWNjMSIsImlhdCI6MTYzNTY4MzIzNCwiZXhwIjoxNjM1Njg2ODM0fQ.2BnDQM5rM6Hwhq7QLLEyVxWrt94K4IXjkBEMvAoLqvo HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [31/Oct/2021:12:38:37 +0000] \"GET /auth/verify/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZpcnN0QWNjMSIsImlhdCI6MTYzNTY4MzIzNCwiZXhwIjoxNjM1Njg2ODM0fQ.2BnDQM5rM6Hwhq7QLLEyVxWrt94K4IXjkBEMvAoLqvo HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [31/Oct/2021:12:39:01 +0000] \"GET /auth/verify/token?=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZpcnN0QWNjMSIsImlhdCI6MTYzNTY4MzIzNCwiZXhwIjoxNjM1Njg2ODM0fQ.2BnDQM5rM6Hwhq7QLLEyVxWrt94K4IXjkBEMvAoLqvo HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [31/Oct/2021:12:39:06 +0000] \"GET /auth/verify/token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZpcnN0QWNjMSIsImlhdCI6MTYzNTY4MzIzNCwiZXhwIjoxNjM1Njg2ODM0fQ.2BnDQM5rM6Hwhq7QLLEyVxWrt94K4IXjkBEMvAoLqvo HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [31/Oct/2021:12:39:08 +0000] \"GET /auth/verify/token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZpcnN0QWNjMSIsImlhdCI6MTYzNTY4MzIzNCwiZXhwIjoxNjM1Njg2ODM0fQ.2BnDQM5rM6Hwhq7QLLEyVxWrt94K4IXjkBEMvAoLqvo HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [31/Oct/2021:12:39:21 +0000] \"GET /auth/verify/?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZpcnN0QWNjMSIsImlhdCI6MTYzNTY4MzIzNCwiZXhwIjoxNjM1Njg2ODM0fQ.2BnDQM5rM6Hwhq7QLLEyVxWrt94K4IXjkBEMvAoLqvo HTTP/1.1\" 200 47 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [31/Oct/2021:12:41:55 +0000] \"POST /auth/signup HTTP/1.1\" 201 41 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [31/Oct/2021:12:43:53 +0000] \"POST /auth/signup HTTP/1.1\" 201 41 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [31/Oct/2021:12:45:55 +0000] \"GET /auth/verify?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImZpcnN0QWNjMSIsImlhdCI6MTYzNTY4NDIzMywiZXhwIjoxNjM1Njg3ODMzfQ.rZJxUeNM2R3jXZdDim_UiG4Wi88WfYLVpsAby-yWr68 HTTP/1.1\" 200 47 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36\"\n"}
+{"level":"info","message":"::1 - - [31/Oct/2021:13:05:00 +0000] \"POST /auth/signup HTTP/1.1\" 201 41 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [31/Oct/2021:13:09:37 +0000] \"POST /auth/signup HTTP/1.1\" 201 41 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [02/Nov/2021:06:20:38 +0000] \"POST /auth/login HTTP/1.1\" 200 215 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [02/Nov/2021:06:31:02 +0000] \"POST /exam/examUpload HTTP/1.1\" 200 28 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [02/Nov/2021:06:33:41 +0000] \"POST /exam/examUpload HTTP/1.1\" 200 28 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error"}
+{"level":"info","message":"::1 - - [02/Nov/2021:06:36:47 +0000] \"POST /exam/examUpload HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [02/Nov/2021:06:38:22 +0000] \"POST /exam/examUpload HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error"}
+{"level":"info","message":"::1 - - [02/Nov/2021:06:41:33 +0000] \"POST /exam/examUpload HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [02/Nov/2021:06:43:04 +0000] \"POST /exam/examUpload HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"_id is not defined"}
+{"level":"info","message":"::1 - - [02/Nov/2021:07:05:05 +0000] \"POST /exam/examUpload HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"_id is not defined"}
+{"level":"info","message":"::1 - - [02/Nov/2021:07:06:15 +0000] \"POST /exam/examUpload HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"_id is not defined"}
+{"level":"info","message":"::1 - - [02/Nov/2021:07:06:32 +0000] \"POST /exam/examUpload HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"_id is not defined"}
+{"level":"info","message":"::1 - - [02/Nov/2021:07:16:04 +0000] \"POST /exam/examUpload HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"_id is not defined"}
+{"level":"info","message":"::1 - - [02/Nov/2021:07:17:15 +0000] \"POST /exam/examUpload HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"_id is not defined"}
+{"level":"info","message":"::1 - - [02/Nov/2021:07:17:48 +0000] \"POST /exam/examUpload HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"_id is not defined"}
+{"level":"info","message":"::1 - - [02/Nov/2021:07:20:42 +0000] \"POST /exam/examUpload HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [02/Nov/2021:07:21:06 +0000] \"POST /auth/login HTTP/1.1\" 200 215 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"_id is not defined"}
+{"level":"info","message":"::1 - - [02/Nov/2021:07:21:56 +0000] \"POST /exam/examUpload HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"_id is not defined"}
+{"level":"info","message":"::1 - - [02/Nov/2021:07:22:22 +0000] \"POST /exam/examUpload HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Cannot set property 'createdAt' of undefined"}
+{"level":"info","message":"::1 - - [02/Nov/2021:07:26:39 +0000] \"POST /exam/examUpload HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Cannot set property 'createdAt' of undefined"}
+{"level":"info","message":"::1 - - [02/Nov/2021:07:27:46 +0000] \"POST /exam/examUpload HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Promice is not defined"}
+{"level":"info","message":"::1 - - [02/Nov/2021:07:28:40 +0000] \"POST /exam/examUpload HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [02/Nov/2021:07:29:56 +0000] \"POST /exam/examUpload HTTP/1.1\" 200 28 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Cannot read property '_id' of undefined"}
+{"level":"info","message":"::1 - - [02/Nov/2021:07:33:44 +0000] \"POST /exam/examUpload HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [02/Nov/2021:07:38:50 +0000] \"POST /exam/examUpload HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Cannot read property '_id' of undefined"}
+{"level":"info","message":"::1 - - [02/Nov/2021:07:40:39 +0000] \"POST /exam/examUpload HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"TypeError: Cannot read property '_id' of undefined"}
+{"level":"info","message":"::1 - - [02/Nov/2021:07:43:13 +0000] \"POST /exam/examUpload HTTP/1.1\" 500 64 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"TypeError: Cannot read property '_id' of undefined"}
+{"level":"info","message":"::1 - - [02/Nov/2021:08:00:38 +0000] \"POST /exam/examUpload HTTP/1.1\" 500 64 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [02/Nov/2021:08:06:38 +0000] \"POST /exam/examUpload HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"TypeError: Cannot read property '_id' of undefined"}
+{"level":"info","message":"::1 - - [02/Nov/2021:08:09:00 +0000] \"POST /exam/examUpload HTTP/1.1\" 500 64 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"TypeError: Cannot read property '_id' of undefined"}
+{"level":"info","message":"::1 - - [02/Nov/2021:08:22:25 +0000] \"POST /exam/examUpload HTTP/1.1\" 500 64 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"TypeError: Cannot read property '_id' of undefined"}
+{"level":"info","message":"::1 - - [02/Nov/2021:08:23:29 +0000] \"POST /exam/examUpload HTTP/1.1\" 500 64 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"TypeError: Cannot read property '_id' of undefined"}
+{"level":"info","message":"::1 - - [02/Nov/2021:08:25:11 +0000] \"POST /exam/examUpload HTTP/1.1\" 500 64 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [02/Nov/2021:13:42:58 +0000] \"POST /auth/login HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [02/Nov/2021:13:43:47 +0000] \"POST /auth/login HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [02/Nov/2021:13:44:49 +0000] \"POST /auth/login HTTP/1.1\" 200 215 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"TypeError: Cannot read property '_id' of undefined"}
+{"level":"info","message":"::1 - - [02/Nov/2021:13:45:13 +0000] \"POST /exam/examUpload HTTP/1.1\" 500 64 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"TypeError: Cannot read property '_id' of undefined"}
+{"level":"info","message":"::1 - - [02/Nov/2021:13:48:38 +0000] \"POST /exam/examUpload HTTP/1.1\" 500 64 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"TypeError: Cannot read property '_id' of undefined"}
+{"level":"info","message":"::1 - - [02/Nov/2021:13:50:02 +0000] \"POST /exam/examUpload HTTP/1.1\" 500 64 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [02/Nov/2021:13:55:37 +0000] \"POST /exam/examUpload HTTP/1.1\" 201 33 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [02/Nov/2021:15:44:13 +0000] \"POST /exam/editExam/618143599a01192b40496d05 HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error"}
+{"level":"error"}
+{"level":"info","message":"::1 - - [03/Nov/2021:03:38:53 +0000] \"POST /auth/login HTTP/1.1\" 200 215 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [03/Nov/2021:03:39:22 +0000] \"PUT /exam/editExam/618143599a01192b40496d05 HTTP/1.1\" 200 23 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [03/Nov/2021:03:41:16 +0000] \"PUT /exam/editExam/618143599a01192b40496d05 HTTP/1.1\" 200 37 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [04/Nov/2021:06:53:43 +0000] \"POST /auth/login HTTP/1.1\" 200 215 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Class constructor Request cannot be invoked without 'new'"}
+{"level":"info","message":"::1 - - [04/Nov/2021:06:55:42 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Class constructor Request cannot be invoked without 'new'"}
+{"level":"info","message":"::1 - - [04/Nov/2021:06:59:20 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Class constructor Request cannot be invoked without 'new'"}
+{"level":"info","message":"::1 - - [04/Nov/2021:07:03:03 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Class constructor Request cannot be invoked without 'new'"}
+{"level":"info","message":"::1 - - [04/Nov/2021:07:13:17 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Class constructor Request cannot be invoked without 'new'"}
+{"level":"info","message":"::1 - - [04/Nov/2021:07:13:41 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Class constructor Request cannot be invoked without 'new'"}
+{"level":"info","message":"::1 - - [04/Nov/2021:07:23:28 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Class constructor Request cannot be invoked without 'new'"}
+{"level":"info","message":"::1 - - [04/Nov/2021:07:27:21 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Class constructor Request cannot be invoked without 'new'"}
+{"level":"info","message":"::1 - - [04/Nov/2021:07:27:30 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Class constructor Request cannot be invoked without 'new'"}
+{"level":"info","message":"::1 - - [04/Nov/2021:07:31:01 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Class constructor Request cannot be invoked without 'new'"}
+{"level":"info","message":"::1 - - [04/Nov/2021:07:34:03 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"\"\".join is not a function"}
+{"level":"info","message":"::1 - - [04/Nov/2021:07:34:12 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Class constructor Request cannot be invoked without 'new'"}
+{"level":"info","message":"::1 - - [04/Nov/2021:07:38:32 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Class constructor Request cannot be invoked without 'new'"}
+{"level":"info","message":"::1 - - [04/Nov/2021:07:51:25 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Class constructor Request cannot be invoked without 'new'"}
+{"level":"info","message":"::1 - - [04/Nov/2021:07:53:55 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Class constructor Request cannot be invoked without 'new'"}
+{"level":"info","message":"::1 - - [04/Nov/2021:07:55:07 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Class constructor Request cannot be invoked without 'new'"}
+{"level":"info","message":"::1 - - [04/Nov/2021:07:57:21 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Class constructor Request cannot be invoked without 'new'"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:00:20 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Class constructor Request cannot be invoked without 'new'"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:03:34 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Class constructor Request cannot be invoked without 'new'"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:03:49 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Class constructor Request cannot be invoked without 'new'"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:09:12 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Class constructor Request cannot be invoked without 'new'"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:09:29 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Class constructor Request cannot be invoked without 'new'"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:09:31 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Class constructor Request cannot be invoked without 'new'"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:15:10 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Class constructor Request cannot be invoked without 'new'"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:17:40 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Class constructor Request cannot be invoked without 'new'"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:18:00 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Class constructor Request cannot be invoked without 'new'"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:21:04 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Class constructor Request cannot be invoked without 'new'"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:21:40 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:22:20 +0000] \"POST /auth/login HTTP/1.1\" 200 211 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Class constructor Request cannot be invoked without 'new'"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:22:45 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:27:30 +0000] \"POST /auth/login HTTP/1.1\" 200 211 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Class constructor Request cannot be invoked without 'new'"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:27:52 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Class constructor Request cannot be invoked without 'new'"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:29:16 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Class constructor Request cannot be invoked without 'new'"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:29:54 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 200 71 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:31:06 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 201 39 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"You already Requested for This Exam"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:34:57 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 409 49 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"You already Requested for This Exam"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:36:46 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 409 49 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"You already Requested for This Exam"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:37:21 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 409 49 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"You already Requested for This Exam"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:38:20 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 409 49 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"You already Requested for This Exam"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:40:23 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 409 49 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"You already Requested for This Exam"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:40:42 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 409 49 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:46:27 +0000] \"POST /exam/618143599a01192b40496d05/requests/0 HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:46:36 +0000] \"GET /exam/618143599a01192b40496d05/requests/0 HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:46:42 +0000] \"GET /exam/618143599a01192b40496d05/requests/1 HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:48:03 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1 HTTP/1.1\" 200 2 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:48:18 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/0 HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:48:35 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1 HTTP/1.1\" 200 2 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:50:45 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1 HTTP/1.1\" 200 211 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:51:07 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/2 HTTP/1.1\" 200 2 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:51:13 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1 HTTP/1.1\" 200 211 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:51:17 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/0 HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:51:20 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1 HTTP/1.1\" 200 211 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [04/Nov/2021:08:59:01 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1 HTTP/1.1\" 200 139 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [07/Nov/2021:03:23:01 +0000] \"POST /auth/login HTTP/1.1\" 200 211 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [07/Nov/2021:03:23:43 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1 HTTP/1.1\" 200 139 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [07/Nov/2021:03:25:46 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1/?allowed=true?id=61839a4a2cddcef95c8677a7 HTTP/1.1\" 200 139 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [07/Nov/2021:03:27:57 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1/?allowed=true?id=61839a4a2cddcef95c8677a7 HTTP/1.1\" 200 139 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [07/Nov/2021:03:29:07 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1/?allowed=true?id=61839a4a2cddcef95c8677a7 HTTP/1.1\" 200 139 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [07/Nov/2021:03:29:54 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1/?allowed=true/?id=61839a4a2cddcef95c8677a7 HTTP/1.1\" 200 139 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"ObjectId.validate is not a function"}
+{"level":"info","message":"::1 - - [07/Nov/2021:03:35:33 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1/?allowed=true&id=61839a4a2cddcef95c8677a7 HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [07/Nov/2021:03:37:05 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1/?allowed=true&id=61839a4a2cddcef95c8677a7 HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [07/Nov/2021:03:38:04 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1/?allowed=true&id=61839a4a2cddcef95c8677a7 HTTP/1.1\" 200 139 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [07/Nov/2021:03:45:19 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1/?allowed=true&id=61839a4a2cddcef95c8677a7 HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [07/Nov/2021:03:55:02 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1/?allowed=true&id=61839a4a2cddcef95c8677a7 HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [07/Nov/2021:03:56:54 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1/?allowed=true&id=61839a4a2cddcef95c8677a7 HTTP/1.1\" 200 139 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [07/Nov/2021:03:59:01 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1/?allowed=true&id=61839a4a2cddcef95c8677a7 HTTP/1.1\" 200 138 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [07/Nov/2021:04:15:21 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1/?allowed=true&id=61839a4a2cddcef95c8677a7 HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [07/Nov/2021:04:21:51 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1/?allowed=true&id=61839a4a2cddcef95c8677a7 HTTP/1.1\" 200 138 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [07/Nov/2021:04:22:52 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1/?allowed=true&id=61839a4a2cddcef95c8677a7 HTTP/1.1\" 200 138 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [07/Nov/2021:04:24:41 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1/?allowed=true&id=61839a4a2cddcef95c8677a7 HTTP/1.1\" 200 138 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [07/Nov/2021:04:27:37 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1/?allowed=true&id=61839a4a2cddcef95c8677a7 HTTP/1.1\" 200 138 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [07/Nov/2021:04:28:42 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1/?allowed=true&id=61839a4a2cddcef95c8677a7 HTTP/1.1\" 200 138 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [07/Nov/2021:04:36:27 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1/?allowed=true&id=61839a4a2cddcef95c8677a7 HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [07/Nov/2021:04:36:33 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1/?allowed=true&id=61839a4a2cddcef95c8677a7 HTTP/1.1\" 200 138 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [07/Nov/2021:04:39:19 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1/?allowed=true&id=61839a4a2cddcef95c8677a7 HTTP/1.1\" 200 138 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [07/Nov/2021:04:45:46 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1/?allowed=true&id=61839a4a2cddcef95c8677a7 HTTP/1.1\" 200 138 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [07/Nov/2021:04:52:46 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1/?allowed=true&id=61839a4a2cddcef95c8677a7 HTTP/1.1\" 200 138 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [07/Nov/2021:04:54:55 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1/?allowed=true&id=61839a4a2cddcef95c8677a7 HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [07/Nov/2021:04:57:31 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1/?allowed=true&id=61839a4a2cddcef95c8677a7 HTTP/1.1\" 200 138 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [07/Nov/2021:04:58:01 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1/?allowed=true&id=61839a4a2cddcef95c8677a7 HTTP/1.1\" 200 138 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [07/Nov/2021:04:58:27 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1/?allowed=true&id=61839a4a2cddcef95c8677a7 HTTP/1.1\" 200 138 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [07/Nov/2021:05:00:20 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1/?allowed=true&id=61839a4a2cddcef95c8677a7 HTTP/1.1\" 200 138 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Unauthorized"}
+{"level":"info","message":"::1 - - [07/Nov/2021:06:34:36 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 401 26 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"You already Requested for This Exam"}
+{"level":"info","message":"::1 - - [07/Nov/2021:06:35:01 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 409 49 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Unexpected token q in JSON at position 196"}
+{"level":"info","message":"::1 - - [07/Nov/2021:07:04:29 +0000] \"GET /exam/examUpload HTTP/1.1\" 400 56 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [07/Nov/2021:07:05:00 +0000] \"GET /exam/examUpload HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [07/Nov/2021:07:05:11 +0000] \"POST /exam/examUpload HTTP/1.1\" 201 33 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Cannot read property '_id' of undefined"}
+{"level":"info","message":"::1 - - [07/Nov/2021:07:05:38 +0000] \"POST /exam/request/zzzyyyxxx HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [12/Nov/2021:10:33:59 +0000] \"POST /auth/login HTTP/1.1\" 200 211 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [12/Nov/2021:10:34:40 +0000] \"GET /request/myExams HTTP/1.1\" 200 2 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [12/Nov/2021:10:36:15 +0000] \"GET /request/myExams HTTP/1.1\" 200 2 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [12/Nov/2021:10:37:37 +0000] \"GET /request/myExams HTTP/1.1\" 200 2 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [12/Nov/2021:10:38:10 +0000] \"GET /request/myExams HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [12/Nov/2021:10:43:13 +0000] \"GET /request/myExams HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [13/Nov/2021:03:58:48 +0000] \"POST /auth/login HTTP/1.1\" 200 211 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [13/Nov/2021:04:31:27 +0000] \"GET /request/618143599a01192b40496d05 HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [13/Nov/2021:04:31:47 +0000] \"GET /request/618143599a01192b40496d05 HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [13/Nov/2021:04:33:59 +0000] \"GET /request/618143599a01192b40496d05 HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [13/Nov/2021:04:34:01 +0000] \"GET /request/618143599a01192b40496d05 HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [13/Nov/2021:04:35:08 +0000] \"POST /request/618143599a01192b40496d05 HTTP/1.1\" 201 39 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Unauthorized"}
+{"level":"info","message":"::1 - - [13/Nov/2021:04:36:29 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1/ HTTP/1.1\" 401 26 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [13/Nov/2021:04:37:07 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1/ HTTP/1.1\" 200 137 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [13/Nov/2021:04:39:18 +0000] \"GET /exam/editExam/618143599a01192b40496d05/requests/1/?id=618f407c916bb868fd6b9689&allowed=true HTTP/1.1\" 200 137 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [13/Nov/2021:04:42:18 +0000] \"GET /request/myExams HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [13/Nov/2021:04:43:24 +0000] \"GET /request/myExams HTTP/1.1\" 200 2 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [13/Nov/2021:04:44:13 +0000] \"GET /request/myExams HTTP/1.1\" 200 151 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [13/Nov/2021:05:58:28 +0000] \"GET /request/myExams HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [13/Nov/2021:06:01:02 +0000] \"GET /request/myExams HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [13/Nov/2021:06:02:54 +0000] \"GET /request/myExams HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Unauthorized"}
+{"level":"info","message":"::1 - - [14/Nov/2021:05:15:58 +0000] \"GET /request/myExams HTTP/1.1\" 401 26 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [14/Nov/2021:05:16:16 +0000] \"POST /auth/login HTTP/1.1\" 200 211 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [14/Nov/2021:05:16:52 +0000] \"GET /request/myExams HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"ReferenceError: $quiz is not defined"}
+{"level":"info","message":"::1 - - [14/Nov/2021:05:19:11 +0000] \"GET /request/myExams HTTP/1.1\" 500 50 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [14/Nov/2021:05:19:51 +0000] \"GET /request/myExams HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [14/Nov/2021:05:20:25 +0000] \"GET /request/myExams HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"ReferenceError: quiz is not defined"}
+{"level":"info","message":"::1 - - [14/Nov/2021:05:21:19 +0000] \"GET /request/myExams HTTP/1.1\" 500 49 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [14/Nov/2021:05:22:06 +0000] \"GET /request/myExams HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [14/Nov/2021:05:22:23 +0000] \"GET /request/myExams HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [14/Nov/2021:05:22:57 +0000] \"GET /request/myExams HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [14/Nov/2021:05:23:09 +0000] \"GET /request/myExams HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [14/Nov/2021:05:27:44 +0000] \"GET /request/myExams HTTP/1.1\" 200 31 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [14/Nov/2021:05:29:16 +0000] \"GET /request/myExams HTTP/1.1\" 200 151 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [14/Nov/2021:05:33:56 +0000] \"GET /request/myExams HTTP/1.1\" 200 165 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [14/Nov/2021:05:48:52 +0000] \"GET /request/myExams HTTP/1.1\" 200 189 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [14/Nov/2021:05:50:06 +0000] \"GET /request/myExams HTTP/1.1\" 200 189 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [14/Nov/2021:05:54:47 +0000] \"GET /request/myExams HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [14/Nov/2021:05:55:25 +0000] \"GET /request/myExams HTTP/1.1\" 200 189 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [14/Nov/2021:05:55:55 +0000] \"GET /request/myExams HTTP/1.1\" 200 189 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [14/Nov/2021:05:56:47 +0000] \"GET /request/myExams HTTP/1.1\" 200 225 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [14/Nov/2021:05:57:33 +0000] \"GET /request/myExams HTTP/1.1\" 200 226 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [14/Nov/2021:05:58:47 +0000] \"GET /request/myExams HTTP/1.1\" 200 189 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [14/Nov/2021:06:10:00 +0000] \"GET /request/startExam/618143599a01192b40496d05?startExam=true HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Unauthorized"}
+{"level":"info","message":"::1 - - [14/Nov/2021:06:10:59 +0000] \"GET /request/startExam/618143599a01192b40496d05?startExam=true HTTP/1.1\" 401 26 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [14/Nov/2021:06:11:29 +0000] \"GET /request/startExam/618143599a01192b40496d05?startExam=true HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [14/Nov/2021:06:12:13 +0000] \"GET /request/startExam/618143599a01192b40496d05?startExam=true HTTP/1.1\" 200 18 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [14/Nov/2021:07:07:04 +0000] \"GET /request/startExam/618143599a01192b40496d05?startExam=true HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [14/Nov/2021:07:14:26 +0000] \"GET /request/startExam/618143599a01192b40496d05?startExam=true HTTP/1.1\" 200 322 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [14/Nov/2021:07:28:41 +0000] \"GET /request/startExam/618143599a01192b40496d05?startExam=true HTTP/1.1\" 200 53 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Unauthorized"}
+{"level":"info","message":"::1 - - [14/Nov/2021:07:32:19 +0000] \"POST /exam/examUpload HTTP/1.1\" 401 26 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"\"end_date\" must be greater than \"ref:start_date\""}
+{"level":"info","message":"::1 - - [14/Nov/2021:07:32:51 +0000] \"POST /exam/examUpload HTTP/1.1\" 400 66 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"\"end_date\" must be in ISO 8601 date format"}
+{"level":"info","message":"::1 - - [14/Nov/2021:07:33:26 +0000] \"POST /exam/examUpload HTTP/1.1\" 400 58 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [14/Nov/2021:07:33:39 +0000] \"POST /exam/examUpload HTTP/1.1\" 201 33 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"You already Requested for This Exam"}
+{"level":"info","message":"::1 - - [14/Nov/2021:07:37:57 +0000] \"POST /request/6190bbd32c8311d0937f284a HTTP/1.1\" 409 49 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error"}
+{"level":"error"}
+{"level":"info","message":"::1 - - [14/Nov/2021:07:46:19 +0000] \"POST /request/6190bbd32c8311d0937f284a HTTP/1.1\" 201 39 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"You already Requested for This Exam"}
+{"level":"info","message":"::1 - - [14/Nov/2021:07:46:42 +0000] \"POST /request/6190bbd32c8311d0937f284a HTTP/1.1\" 409 49 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Unauthorized"}
+{"level":"info","message":"::1 - - [14/Nov/2021:07:50:27 +0000] \"GET /exam/editExam/6190bbd32c8311d0937f284a/requests/1 HTTP/1.1\" 401 26 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [14/Nov/2021:07:50:51 +0000] \"GET /exam/editExam/6190bbd32c8311d0937f284a/requests/1 HTTP/1.1\" 200 137 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [14/Nov/2021:07:53:33 +0000] \"GET /exam/editExam/6190bbd32c8311d0937f284a/requests/1/?id=6190becb087eff381000ac1f&allowed=true HTTP/1.1\" 200 136 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [14/Nov/2021:07:54:02 +0000] \"GET /request/myExams HTTP/1.1\" 200 381 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [17/Nov/2021:07:43:08 +0000] \"POST /auth/login HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [17/Nov/2021:07:43:24 +0000] \"POST /auth/login HTTP/1.1\" 200 211 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [17/Nov/2021:07:43:57 +0000] \"GET /request/myExams HTTP/1.1\" 200 381 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [17/Nov/2021:07:46:04 +0000] \"POST /exam/editExam/6190bbd32c8311d0937f284a HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [17/Nov/2021:07:46:58 +0000] \"POST /exam/editExam/6190bbd32c8311d0937f284a HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [17/Nov/2021:07:49:42 +0000] \"PUT /exam/editExam/6190bbd32c8311d0937f284a HTTP/1.1\" 200 37 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [17/Nov/2021:07:51:03 +0000] \"GET /request/startExam/618143599a01192b40496d05?startExam=true HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [17/Nov/2021:07:53:24 +0000] \"GET /request/startExam/618143599a01192b40496d05?startExam=true HTTP/1.1\" 200 61 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [17/Nov/2021:07:56:21 +0000] \"GET /request/startExam/618143599a01192b40496d05?startExam=true HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [17/Nov/2021:07:59:03 +0000] \"GET /request/startExam/618143599a01192b40496d05?startExam=true HTTP/1.1\" 200 82 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [17/Nov/2021:08:00:06 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 200 54 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [17/Nov/2021:08:01:17 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 200 1245 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Cannot read property 'num' of undefined"}
+{"level":"info","message":"::1 - - [17/Nov/2021:08:23:41 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a/que?num=true HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Cannot read property 'num' of undefined"}
+{"level":"info","message":"::1 - - [17/Nov/2021:08:25:25 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a/que?num=1 HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Cannot read property 'num' of undefined"}
+{"level":"info","message":"::1 - - [17/Nov/2021:08:25:40 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a/que/?num=1 HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Cannot read property 'num' of undefined"}
+{"level":"info","message":"::1 - - [17/Nov/2021:08:27:04 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a/que/?num=1 HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Cannot read property 'check' of undefined"}
+{"level":"info","message":"::1 - - [17/Nov/2021:08:27:54 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a/que/?num=1 HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [17/Nov/2021:08:29:19 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a/que/?num=1 HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [17/Nov/2021:08:31:00 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a/que/?num=1 HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [17/Nov/2021:08:31:29 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a/que/?num=1 HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [17/Nov/2021:08:33:29 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a/que/?num=1 HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [17/Nov/2021:08:34:37 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a/que/?num=1 HTTP/1.1\" 200 24 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [17/Nov/2021:08:37:13 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a/que/?num=1 HTTP/1.1\" 200 24 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [17/Nov/2021:08:43:15 +0000] \"PUT /exam/editExam/6190bbd32c8311d0937f284a HTTP/1.1\" 200 37 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [17/Nov/2021:08:43:29 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a/que/?num=1 HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [17/Nov/2021:08:44:18 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a/que/?num=1 HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [17/Nov/2021:08:45:54 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a/que/?num=1 HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [17/Nov/2021:08:46:05 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a/que/?num=1 HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [17/Nov/2021:08:49:54 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a/que/?num=1 HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [17/Nov/2021:08:51:39 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a/que/?num=1 HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [17/Nov/2021:08:52:48 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a/que/?num=1 HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [17/Nov/2021:08:53:00 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a/que/?num=1 HTTP/1.1\" 500 35 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"shuffle is not defined"}
+{"level":"info","message":"::1 - - [17/Nov/2021:08:54:25 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a/que/?num=1 HTTP/1.1\" 500 1141 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [17/Nov/2021:08:56:14 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a/que/?num=1 HTTP/1.1\" 200 118 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [17/Nov/2021:08:58:32 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a/que/?num=1 HTTP/1.1\" 200 118 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [17/Nov/2021:08:58:46 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a/que/?num=1 HTTP/1.1\" 200 118 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [17/Nov/2021:09:00:01 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a/que/?num=1 HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [17/Nov/2021:09:00:05 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a/que/?num=1 HTTP/1.1\" 200 118 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [17/Nov/2021:09:00:28 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a/que/?num=2 HTTP/1.1\" 200 - \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [17/Nov/2021:09:00:56 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a/que/?num=2 HTTP/1.1\" 200 118 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [17/Nov/2021:09:00:59 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a/que/?num=2 HTTP/1.1\" 200 118 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [17/Nov/2021:09:01:02 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a/que/?num=2 HTTP/1.1\" 200 118 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [18/Nov/2021:10:57:05 +0000] \"POST /auth/login HTTP/1.1\" 200 211 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [18/Nov/2021:10:58:35 +0000] \"PUT /exam/editExam/6190bbd32c8311d0937f284a HTTP/1.1\" 200 37 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [18/Nov/2021:10:59:22 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [18/Nov/2021:11:00:48 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [18/Nov/2021:11:03:41 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [18/Nov/2021:11:05:19 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [18/Nov/2021:11:07:12 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [18/Nov/2021:11:07:18 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [18/Nov/2021:11:09:05 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [18/Nov/2021:11:10:28 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [18/Nov/2021:11:10:32 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [18/Nov/2021:11:12:01 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [18/Nov/2021:11:12:06 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [18/Nov/2021:11:13:58 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [18/Nov/2021:11:15:30 +0000] \"PUT /exam/editExam/6190bbd32c8311d0937f284a HTTP/1.1\" 200 37 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [18/Nov/2021:11:15:53 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [18/Nov/2021:11:18:12 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [18/Nov/2021:11:18:53 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [18/Nov/2021:11:22:54 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [19/Nov/2021:14:08:39 +0000] \"POST /auth/login HTTP/1.1\" 200 211 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [19/Nov/2021:14:09:44 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [19/Nov/2021:14:11:05 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [19/Nov/2021:14:13:12 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [19/Nov/2021:14:14:05 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [19/Nov/2021:14:16:11 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [19/Nov/2021:14:17:21 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [19/Nov/2021:14:18:11 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [19/Nov/2021:14:19:00 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [19/Nov/2021:14:22:18 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [19/Nov/2021:14:22:28 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Bad Request"}
+{"level":"info","message":"::1 - - [20/Nov/2021:05:41:49 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 400 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [20/Nov/2021:05:49:29 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 200 - \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [20/Nov/2021:05:55:22 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 200 - \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [20/Nov/2021:05:56:47 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 200 - \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [20/Nov/2021:05:57:09 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 200 - \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [20/Nov/2021:05:57:42 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 200 - \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [20/Nov/2021:05:59:59 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 200 - \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [20/Nov/2021:06:01:52 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 200 - \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [20/Nov/2021:06:04:44 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 200 - \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [20/Nov/2021:06:10:43 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 200 - \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [20/Nov/2021:06:11:52 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 201 72 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [20/Nov/2021:06:12:42 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 302 79 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [20/Nov/2021:06:13:16 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 302 79 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [20/Nov/2021:06:16:47 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 200 72 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [20/Nov/2021:06:17:48 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 200 72 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [20/Nov/2021:06:18:19 +0000] \"GET /request/startExam/6190bbd32c8311d0937f284a?startExam=true HTTP/1.1\" 200 87 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [20/Nov/2021:06:20:48 +0000] \"GET /request/startExam/que/6197b07dce51830b9a072b39?num=1 HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [20/Nov/2021:06:28:34 +0000] \"GET /request/startExam/que/6197b07dce51830b9a072b39?num=1 HTTP/1.1\" 200 127 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Not Found"}
+{"level":"info","message":"::1 - - [20/Nov/2021:08:26:53 +0000] \"POST /request/startExam/que/6197b07dce51830b9a072b39?num=1 HTTP/1.1\" 404 23 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [20/Nov/2021:08:28:45 +0000] \"POST /request/startExam/que/6197b07dce51830b9a072b39?num=1 HTTP/1.1\" 200 84 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [20/Nov/2021:08:30:21 +0000] \"POST /request/startExam/que/6197b07dce51830b9a072b39?num=1 HTTP/1.1\" 200 84 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [20/Nov/2021:08:32:31 +0000] \"POST /request/startExam/que/6197b07dce51830b9a072b39?num=1 HTTP/1.1\" 409 84 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Internal Server Error"}
+{"level":"info","message":"::1 - - [20/Nov/2021:08:37:21 +0000] \"POST /request/startExam/que/6197b07dce51830b9a072b39?num=1 HTTP/1.1\" 200 28 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [20/Nov/2021:08:43:06 +0000] \"POST /request/startExam/que/6197b07dce51830b9a072b39?num=1 HTTP/1.1\" 200 28 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [20/Nov/2021:08:55:12 +0000] \"POST /request/startExam/que/6197b07dce51830b9a072b39?num=1 HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [20/Nov/2021:08:55:59 +0000] \"POST /request/startExam/que/6197b07dce51830b9a072b39?num=1 HTTP/1.1\" 200 28 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [20/Nov/2021:08:57:35 +0000] \"POST /request/startExam/que/6197b07dce51830b9a072b39?num=1 HTTP/1.1\" 200 28 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [20/Nov/2021:09:13:53 +0000] \"POST /request/startExam/que/6197b07dce51830b9a072b39?num=1 HTTP/1.1\" 200 28 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [20/Nov/2021:09:18:58 +0000] \"POST /request/startExam/que/6197b07dce51830b9a072b39?num=1 HTTP/1.1\" 200 28 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [20/Nov/2021:09:20:04 +0000] \"POST /request/startExam/que/6197b07dce51830b9a072b39?num=1 HTTP/1.1\" 200 28 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [20/Nov/2021:09:25:25 +0000] \"POST /request/startExam/que/6197b07dce51830b9a072b39?num=1 HTTP/1.1\" 200 18 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [20/Nov/2021:09:26:42 +0000] \"POST /request/startExam/que/6197b07dce51830b9a072b39?num=1 HTTP/1.1\" 200 18 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [20/Nov/2021:09:26:57 +0000] \"POST /request/startExam/que/6197b07dce51830b9a072b39?num=1 HTTP/1.1\" 200 18 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [20/Nov/2021:10:09:49 +0000] \"GET /request/startExam/que/6197b07dce51830b9a072b39?num=1 HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [20/Nov/2021:10:12:02 +0000] \"GET /request/startExam/que/6197b07dce51830b9a072b39?num=1 HTTP/1.1\" 200 116 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [20/Nov/2021:10:14:37 +0000] \"POST /request/startExam/que/6197b07dce51830b9a072b39?num=1 HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [20/Nov/2021:10:15:09 +0000] \"POST /request/startExam/que/6197b07dce51830b9a072b39?num=1 HTTP/1.1\" - - \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"info","message":"::1 - - [20/Nov/2021:10:16:37 +0000] \"POST /request/startExam/que/6197b07dce51830b9a072b39?num=1 HTTP/1.1\" 200 25 \"-\" \"PostmanRuntime/7.28.4\"\n"}
+{"level":"error","message":"Your Password must contain At least one upper case English letter,At least one lower case English letter, At least one digit,At least one special character,Minimum eight in length "}
+{"level":"info","message":"::1 - - [25/Jan/2022:20:51:01 +0000] \"POST /auth/signup HTTP/1.1\" 400 194 \"-\" \"PostmanRuntime/7.28.4\"\n"}

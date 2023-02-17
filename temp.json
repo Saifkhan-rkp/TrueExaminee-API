@@ -1,0 +1,15 @@
+{
+    "subject_name":"java",
+    "start_date": "2021 11 10 11:00:00.000Z",
+    "end_date": "2021 11 10 12:00:00.000Z",
+    "duration": 0.5,
+    "code": "zzzyyyxxx",
+    "quiz": [
+        {
+            "question": "this is a Question and you have to solve it....",
+            "options":["opA","opB","opC","opD"],
+            "answer_key": "opC"
+        }
+    ]
+
+}
